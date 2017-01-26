@@ -7,7 +7,7 @@
 
 
 		</div>
-	<div class="container footer">
+	<div class="footer">
 		<p style="text-align: center" class="copyright">© 2016 OrangeApps Inc. All Rights Reserved.</p>
 		<p style="text-align:center;font-size:12px;margin-top:-40px;">Crafted with <span style="color:#c60808;"><i class="fa fa-heart" aria-hidden="true"></i></span> by the OrangeApps Team.</p>
 	</div>

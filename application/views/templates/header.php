@@ -9,6 +9,7 @@
 
     <!-- Bootstrap -->
     <link href="<?php echo base_url()?>assets/css/boots.css" rel="stylesheet">
+    <link href="<?php echo base_url()?>assets/style.css" rel="stylesheet">
 
   
 
@@ -16,7 +17,13 @@
 <body>
 
 <div class="container">
+<<<<<<< HEAD
 <div class="logo">
 asd
 </div>
+=======
+
+
+
+>>>>>>> 166af1fba8c17d9f5a675d21e111be1ee6fbb42f
 
