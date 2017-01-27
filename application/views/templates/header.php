@@ -21,6 +21,13 @@
 				box-shadow: 10px;
 				overflow: hidden;
 			}
+
+	.info
+			{
+				list-style: none;
+				padding: 10px;
+			}
+
     </style>
 
   
@@ -28,6 +35,21 @@
 </head>
 <body>
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<div class="well">
+	<ul>
+	<a href="#"><li class="pull-right info">About Us</li></a>
+	<a href="#"><li class="pull-right info">Contact Us</li></a>
+	</ul>
+</div>
+
+<div class="container" style="padding-top: 30px;">
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 682109d80b2ad9b44b46cf634ad4290d373eed43
 
 
 <div id="useAsHeader">
@@ -40,3 +62,14 @@
 </div>
 <div class="container" style="padding-top: 30px;">
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+<div class="container">
+>>>>>>> 183311fb0ab805d7fe26c25591555f9ed894a1f2
+
+
+>>>>>>> 7b40d97b14fae897847312527637e809f387c2ac
+>>>>>>> 682109d80b2ad9b44b46cf634ad4290d373eed43
