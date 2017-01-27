@@ -14,7 +14,7 @@
 				<label for="inputPassword" style="font-weight: bolder;">Password:</label>
 				<input type="password" class="form-control" style="text-align: center;"><br />
 				<a href="<?php echo base_url()?>welcome/registration">Register now!</a>
-				<a href="#" class="btn btn-primary btn-lg pull-right">&nbsp; &nbsp; &nbsp; Login &nbsp; &nbsp; &nbsp;</a>
+				<a href="#" class="btn btn-primary btn-lg pull-right" style="width:100px;">Login</a>
 			</div>
 
 		

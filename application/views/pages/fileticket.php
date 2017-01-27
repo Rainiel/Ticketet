@@ -31,13 +31,6 @@
 					<option value="Technical">Technical</option>
 				</select>
 
-				<label for="selectLevel" style="font-weight: bolder;">Priority Level:</label>
-				<select class="form-control">
-					<option value="Low" >Low</option>
-					<option value="Normal">Normal</option>
-					<option value="Urgent">Urgent</option>
-				</select>
-
 				<label for="inputConcern" style="font-weight: bolder;">Concern:</label>
 				<!--Dapat text area to, di ko lang alam yung type na ilalagay -->
 				<textarea type="text" class="form-control" rows="5" placeholder="Type in your concerns.."></textarea>
