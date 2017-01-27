@@ -10,6 +10,7 @@ class Welcome extends CI_Controller {
 		$data['title']="Ticketing System";
 
 		$this->load->view('templates/header',$data);
+		$this->load->view('templates/navigation');
 		$this->load->view('pages/home');
 		$this->load->view('templates/footer');
 	}
