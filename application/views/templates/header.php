@@ -43,14 +43,4 @@
 </div>
 <div class="container" style="padding-top: 30px;">
 
-
-
-<div id="useAsHeader">
-	<ul class="navbar navbar-default">
-		<a href="<?php echo base_url()?>welcome/index"><li>Home</li></a>
-		<a href="<?php echo base_url()?>welcome/ticket_request"><li>File Ticket</li></a>
-		<a href="<?php echo base_url()?>welcome/tickets"><li>Ticket Management</li></a>
-		<a href="<?php echo base_url()?>welcome/registration"><li>Registration</li></a>
-	</ul>
-</div>
 <div class="container">
