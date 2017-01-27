@@ -28,6 +28,10 @@
 </head>
 <body>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7b40d97b14fae897847312527637e809f387c2ac
 <div id="useAsHeader">
 	<ul class="navbar navbar-default">
 		<a href="<?php echo base_url()?>welcome/index"><li>Home</li></a>
@@ -38,3 +42,10 @@
 </div>
 <div class="container" style="padding-top: 30px;">
 
+<<<<<<< HEAD
+=======
+
+<div class="container">
+
+
+>>>>>>> 7b40d97b14fae897847312527637e809f387c2ac
