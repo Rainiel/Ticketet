@@ -20,6 +20,7 @@ class Welcome extends CI_Controller {
 		$data['title']="Ticketing System";
 
 		$this->load->view('templates/header',$data);
+		$this->load->view('templates/navigation');
 		$this->load->view('pages/fileticket');
 		$this->load->view('templates/footer');
 	}
@@ -29,6 +30,7 @@ class Welcome extends CI_Controller {
 		$data['title']="Ticketing System";
 
 		$this->load->view('templates/header',$data);
+		$this->load->view('templates/navigation');
 		$this->load->view('pages/registration');
 		$this->load->view('templates/footer');
 	}
@@ -38,6 +40,7 @@ class Welcome extends CI_Controller {
 		$data['title']="Ticketing System";
 
 		$this->load->view('templates/header',$data);
+		$this->load->view('templates/navigation');
 		$this->load->view('pages/ticketManagement');
 		$this->load->view('templates/footer');
 	}
