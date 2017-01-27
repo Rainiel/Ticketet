@@ -3,10 +3,10 @@
 				-->
 
 
-<div class="row">
+<div class="row" >
 
-
-		<div class="col-lg-4 well ">
+		<div class="col-lg-4"></div>
+		<div class="col-lg-4 well">
 			<form>
 			<label for="registrationHeader" style="font-size:18px;font-weight:bolder;">Account Registration</label>
 				<hr />
@@ -20,10 +20,11 @@
 				<input type="password" class="form-control" style="text-align: center;">
 				<label for="inputRepeatPassword" style="font-weight: bolder;">Confirm Password:</label>
 				<input type="password" class="form-control" style="text-align: center;"><br />
-				<input type="button" class="btn btn-default pull-right" value="Register Account"/>
+				<input type="button" class="btn btn-success pull-right" value="Register Account"/>
 			</form>
 		</div>
-		<div class="col-lg-8" style="padding-left:40px;">
+		<div class="col-lg-4"></div>
+		<!-- <div class="col-lg-8" style="padding-left:40px;">
 			<table class="table table-bordered table-striped table-responsive align" >
 				<tr>
 					<th colspan="4" class="align">Accounts</th>
@@ -66,7 +67,7 @@
 					<td><input type="button" class="btn btn-default" value="Manage Account"></td>
 				</tr>
 			</table>
-		</div>
+		</div> -->
 
 
 </div>
