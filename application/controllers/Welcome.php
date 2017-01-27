@@ -15,12 +15,12 @@ class Welcome extends CI_Controller {
 		$this->load->view('templates/footer');
 	}
 
-	public function fileticket()
+	public function ticket_request()
 	{
 		$data['title']="Ticketing System";
 
 		$this->load->view('templates/header',$data);
-		$this->load->view('pages/fileticket');
+		$this->load->view('pages/ticket_request');
 		$this->load->view('templates/footer');
 	}
 
@@ -33,12 +33,12 @@ class Welcome extends CI_Controller {
 		$this->load->view('templates/footer');
 	}
 
-	public function ticketManagement()
+	public function tickets()
 	{
 		$data['title']="Ticketing System";
 
 		$this->load->view('templates/header',$data);
-		$this->load->view('pages/ticketManagement');
+		$this->load->view('pages/tickets');
 		$this->load->view('templates/footer');
 	}
 }

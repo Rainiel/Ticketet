@@ -28,28 +28,13 @@
 </head>
 <body>
 
-<<<<<<< HEAD
 <div id="useAsHeader">
 	<ul class="navbar navbar-default">
 		<a href="<?php echo base_url()?>welcome/index"><li>Home</li></a>
-		<a href="<?php echo base_url()?>welcome/fileticket"><li>File Ticket</li></a>
-		<a href="<?php echo base_url()?>welcome/ticketManagement"><li>Ticket Management</li></a>
+		<a href="<?php echo base_url()?>welcome/ticket_request"><li>File Ticket</li></a>
+		<a href="<?php echo base_url()?>welcome/tickets"><li>Ticket Management</li></a>
 		<a href="<?php echo base_url()?>welcome/registration"><li>Registration</li></a>
 	</ul>
 </div>
 <div class="container" style="padding-top: 30px;">
-
-
-=======
-<div class="container">
-<<<<<<< HEAD
-<div class="logo">
-asd
-</div>
-=======
->>>>>>> 74b78fe06127222f837cf8e6781a33c1b56ee104
-
-
-
->>>>>>> 166af1fba8c17d9f5a675d21e111be1ee6fbb42f
 
