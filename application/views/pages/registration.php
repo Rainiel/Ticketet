@@ -18,7 +18,7 @@
 				<input type="text" class="form-control" style="text-align: center;">
 				<label for="inputPassword" style="font-weight: bolder;">Password:</label>
 				<input type="password" class="form-control" style="text-align: center;">
-				<label for="inputRepeatPassword" style="font-weight: bolder;">Repeat Password:</label>
+				<label for="inputRepeatPassword" style="font-weight: bolder;">Confirm Password:</label>
 				<input type="password" class="form-control" style="text-align: center;"><br />
 				<input type="button" class="btn btn-success pull-right" value="Register Account"/>
 			</form>
