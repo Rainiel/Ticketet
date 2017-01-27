@@ -11,13 +11,34 @@
     <link href="<?php echo base_url()?>assets/css/boots.css" rel="stylesheet">
     <link href="<?php echo base_url()?>assets/style.css" rel="stylesheet">
 
+    <style>
+
+	#useAsHeader
+			{	
+				top:0;
+				left:0;
+				width:100%;
+				box-shadow: 10px;
+				overflow: hidden;
+			}
+    </style>
+
   
 
 </head>
 <body>
 
+<div id="useAsHeader">
+	<ul class="navbar navbar-default">
+		<a href="<?php echo base_url()?>welcome/index"><li>Home</li></a>
+		<a href="<?php echo base_url()?>welcome/fileticket"><li>File Ticket</li></a>
+		<a href="<?php echo base_url()?>welcome/ticketManagement"><li>Ticket Management</li></a>
+		<a href="<?php echo base_url()?>welcome/registration"><li>Registration</li></a>
+	</ul>
+</div>
+<div class="container" style="padding-top: 30px;">
 
-<div class="container">
+
 
 
 

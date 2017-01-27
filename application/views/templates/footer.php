@@ -1,5 +1,11 @@
 	
+	<?php
 
+		# Baka pwedeng sa footer nalang ilagay yung parang nasa dashboard nung website
+		# yung kung ilan yung ticket na resolved na, kung ilan yung pending pa
+
+
+	?>
 
 
 
@@ -7,10 +13,6 @@
 
 
 		</div>
-	<div class="footer">
-		<p style="text-align: center" class="copyright">© 2016 OrangeApps Inc. All Rights Reserved.</p>
-		<p style="text-align:center;font-size:12px;margin-top:-40px;">Crafted with <span style="color:#c60808;"><i class="fa fa-heart" aria-hidden="true"></i></span> by the OrangeApps Team.</p>
-	</div>
 
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
